@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Andrey
+- 👋 Hi, I’m Andrey 
 - 👀 I’m interested in to make the world better
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate onin business ideas
+- 💞️ I’m looking to collaborate in business ideas
 - 📫 How to reach me AAPunisher@mail.ru
 
 <!---
