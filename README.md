@@ -25,7 +25,7 @@
 - создаю свои проекты на основе полученых знаний
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram]([@Axewyl](https://web.telegram.org/k/))
+- [Telegram](https://web.telegram.org/k/)
 
 ---
 
@@ -53,5 +53,5 @@
 - I create my projects based on the acquired knowledge
 
 ### 🙌🏻 Contact me
-- [Telegram]([@Axewyl](https://web.telegram.org/k/))
+- [Telegram](https://web.telegram.org/k/)
 
