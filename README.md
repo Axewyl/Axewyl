@@ -1,10 +1,64 @@
-- 👋 Hi, I’m Andrey 
-- 👀 I’m interested in to make the world better
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate in business ideas
-- 📫 How to reach me AAPunisher@mail.ru
+### Привет! 👋
 
-<!---
-Axewyl/Axewyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - D
+  - 
+  - 
+* 
+*  
+* 
+* 
+
+### 📚 Проекты 📚
+
+* Кликни [сюда]() чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: 
+- Skills: 
+    * 
+    * 
+    * 
+
+### ⚡️ В настоящее время ⚡️
+- 
+- 
+- 
+- 
+
+### 🙌🏻 Свяжись со мной
+- [Telegram]()
+- [Kaggle]()
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+ - 
+ - 
+ - 
+* 
+* 
+* 
+* 
+
+### 💡 Core competencies 💡
+- Tools: 
+  - Skills:
+    * 
+    * 
+    * 
+
+
+### ⚡️ Currently ⚡️
+- 
+- 
+- 
+- 
+
+### 🙌🏻 Contact me
+- [Telegram]()
+- [Kaggle]()
