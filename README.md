@@ -18,6 +18,7 @@
 - Skills: 
     * Mathematical statistics;
     * Data preprocessing and analysis;
+    * Postgre SQL
 
 ### ⚡️ В настоящее время ⚡️
 - учусь по профессии Data Sientist на курсе SkillFactory
