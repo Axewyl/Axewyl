@@ -19,6 +19,16 @@
     * Mathematical statistics;
     * Data preprocessing and analysis;
     * Postgre SQL
+    * EDA (exploritory data analysis)
+    * Maching learning:
+      - Linear regression
+      - Polynomial Regression
+      - Logistic Regression
+      - Decision tree
+      - K-Means
+      - Aglomeraive
+      - EM
+      - DBSCAN
 
 ### ⚡️ В настоящее время ⚡️
 - учусь по профессии Data Sientist на курсе SkillFactory
