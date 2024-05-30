@@ -21,14 +21,15 @@
     * Postgre SQL
     * EDA (exploritory data analysis)
     * Maching learning:
-      - Linear regression
-      - Polynomial Regression
-      - Logistic Regression
-      - Decision tree
-      - K-Means
-      - Aglomeraive
-      - EM
-      - DBSCAN
+      - Linear regression;
+      - Polynomial Regression;
+      - Logistic Regression;
+      - Decision tree;
+      - K-Means;
+      - Aglomeraive;
+      - EM;
+      - DBSCAN;
+      - and other, more strong models.
 
 ### ⚡️ В настоящее время ⚡️
 - учусь по профессии Data Sientist на курсе SkillFactory
