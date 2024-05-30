@@ -38,7 +38,7 @@
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/Axewyl)
-
+- [Watsapp](https://wa.me/79119048883)
 ---
 
 ### Hello! 👋
@@ -55,9 +55,21 @@
 
 ### 💡 Core competencies 💡
   - Tools: Python, assembler
-  - Skills:
+  - Skills: 
     * Mathematical statistics;
     * Data preprocessing and analysis;
+    * Postgre SQL
+    * EDA (exploritory data analysis)
+    * Maching learning:
+      - Linear regression;
+      - Polynomial Regression;
+      - Logistic Regression;
+      - Decision tree;
+      - K-Means;
+      - Aglomeraive;
+      - EM;
+      - DBSCAN;
+      - and other, more strong models.
 
 ### ⚡️ Currently ⚡️
 - I am studying as a Data Scientist at the SkillFactory course
