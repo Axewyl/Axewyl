@@ -66,4 +66,5 @@
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/Axewyl)
+- [Watsapp](https://wa.me/79119048883)
 
